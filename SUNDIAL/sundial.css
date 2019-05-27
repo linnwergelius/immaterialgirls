@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'glitz';
+  src: url('glitz-webfont.woff') format('woff'); 
+}
+
+
+
+p {
+	padding-top:25%;
+	text-align: center;
+	line-height:0.5;
+	color:white;
+	letter-spacing:10px;
+	font-family: 'glitz';
+	font-size:200pt;
+}
